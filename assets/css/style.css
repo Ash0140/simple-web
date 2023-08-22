@@ -1,0 +1,23 @@
+body {
+    background-color: powderblue;
+  }
+  .heading {
+    font-size: 50px;
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+  .img{
+    height: 100px;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  th, td {
+    padding: 15px;
+  }
+  pre > span{
+    color: brown;
+  }
